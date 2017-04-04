@@ -1,0 +1,14 @@
+# Golf-Scorecard-Buddy-Privacy-Policy
+
+Golf Scorecard Privacy Policy
+
+This privacy policy governs your use of the Golf Scorecard Buddy app created by Fuzzy geckos.
+
+This app uses Google's AdMob service for displaying ads within the app. 
+AdMob's Policies can be found at https://support.google.com/admob/answer/6128543?hl=en
+
+This app uses Google's Firebase service to allow Golf Scorecard Buddy to send notifications to users of the app. 
+Firebase's Privacy Policy can be found at https://www.firebase.com/terms/privacy-policy.html
+
+All data entered into the app is saved locally onto your device. There is no information collected about you or 
+your app usage by us.
