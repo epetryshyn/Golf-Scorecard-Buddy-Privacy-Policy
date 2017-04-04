@@ -10,4 +10,4 @@ Firebase servers are located in the United States and therefore are subject to t
 Firebase's Privacy Policy can be found at https://www.firebase.com/terms/privacy-policy.html
 
 All data entered into the app is saved locally onto your device. There is no information collected about you or 
-your app usage by us.
+your app usage by us. There is no financial or payment information, and no contact information used by the app.
