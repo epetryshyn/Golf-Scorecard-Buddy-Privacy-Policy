@@ -1,7 +1,5 @@
 # Golf Scorecard Buddy Privacy Policy
 
-Golf Scorecard Privacy Policy
-
 This privacy policy governs your use of the Golf Scorecard Buddy app created by Fuzzy geckos.
 
 This app uses Google's AdMob service for displaying ads within the app. 
