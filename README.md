@@ -1,4 +1,4 @@
-# Golf-Scorecard-Buddy-Privacy-Policy
+# Golf Scorecard Buddy Privacy Policy
 
 Golf Scorecard Privacy Policy
 
