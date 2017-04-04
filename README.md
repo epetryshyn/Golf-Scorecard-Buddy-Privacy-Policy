@@ -9,4 +9,4 @@ This app uses Google's Firebase service to allow Golf Scorecard Buddy to send no
 Firebase servers are located in the United States and therefore are subject to the Patriot Act.
 Firebase's Privacy Policy can be found at https://www.firebase.com/terms/privacy-policy.html
 
-All data entered into the app is saved locally onto your device. The data entered is used to create scorecards, templates, and tee time reminders. There is no information collected about you or your app usage by the developer. 
+All data entered into the app is saved locally onto your device. The data entered is used to create scorecards, templates, and tee time reminders on the user's devices. There is no information collected about you or your app usage by the developer. 
